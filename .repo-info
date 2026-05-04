@@ -1,0 +1,5 @@
+repo: emaildozotti/luzenira-gomes-bezerra-de-souza
+url: https://github.com/emaildozotti/luzenira-gomes-bezerra-de-souza
+vercel: https://luzenira-gomes-lp.vercel.app
+git: .git neste diretorio
+push: git push origin main (direto daqui)
